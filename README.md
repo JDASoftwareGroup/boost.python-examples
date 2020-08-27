@@ -16,8 +16,8 @@ Installing boost.python:
 
 1. Set the BOOST_ROOT environment variable if Boost is installed in a non-standard directory
 2. Create a build directory:
-  1. <code>mkdir build</code>
-  2. <code>cd build</code>
+  * <code>mkdir build</code>
+  * <code>cd build</code>
 3. run <code>cmake ..</code> and afterwards <code>make</code>
 
 ## Executing

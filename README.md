@@ -9,7 +9,10 @@
 
 Installing boost.python:
 
-1. brew install cmake boost-python
+* <code>brew install cmake boost-python</code> (If using Cmake)
+* brew install boost-python3
+
+* cd build
 
 ## Building 
 

@@ -3,7 +3,7 @@
 1. Boost (version >= 1.3.2)
 2. Python (version >= 2.2)
 3. A C++ compiler for your platform, e.g. GCC or MinGW
-4. [Cmake] (https://cmake.org/) 
+4. [Cmake](https://cmake.org/) [optional] 
 
 ## Mac-OS  with homebrew
 
@@ -15,8 +15,8 @@ Installing boost.python:
 
 1. Set the BOOST_ROOT environment variable if Boost is installed in a non-standard directory
 2. Create a build directory:
-  1. mkdir build
-  2. cd build
+* mkdir build
+* cd build
 3. run cmake .. and afterwards make
 
 ## Executing

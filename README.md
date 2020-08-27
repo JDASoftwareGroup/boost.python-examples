@@ -6,10 +6,8 @@
 4. A C++ compiler for your platform, e.g. GCC or MinGW
 
 
-## Mac OS X with homebrew
+## Mac-OS  with homebrew
 
 Installing boost.python:
 
 1. brew install cmake boost-python
-
-

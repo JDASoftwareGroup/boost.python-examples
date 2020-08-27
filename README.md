@@ -10,18 +10,16 @@
 Installing boost.python:
 
 * <code>brew install cmake boost-python</code> (If using Cmake)
-* brew install boost-python3
-
-* cd build
+* <code>brew install boost-python3</code> 
 
 ## Building 
 
 1. Set the BOOST_ROOT environment variable if Boost is installed in a non-standard directory
 2. Create a build directory:
-* mkdir build
-* cd build
-3. run cmake .. and afterwards make
+  1. <code>mkdir build</code>
+  2. <code>cd build</code>
+3. run <code>cmake ..</code> and afterwards <code>make</code>
 
 ## Executing
 
-Run the python file with .py extension
+Run the python file with .py extension.
